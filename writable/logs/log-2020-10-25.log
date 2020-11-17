@@ -1,0 +1,412 @@
+CRITICAL - 2020-10-25 08:01:07 --> syntax error, unexpected ')', expecting ';'
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/home/phormulao...')
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Webs...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Webs...')
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Webs.php(10): spl_autoload_call('App\\Models\\Webs...')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Webs->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Webs))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 08:07:00 --> syntax error, unexpected ')', expecting ';'
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/home/phormulao...')
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Webs...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Webs...')
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Webs.php(10): spl_autoload_call('App\\Models\\Webs...')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Webs->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Webs))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 08:28:31 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:30:28 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:34:29 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:34:37 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:41:15 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:41:18 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:41:19 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:41:21 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:44:05 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:44:07 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:44:33 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:44:37 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:46:01 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:46:02 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:25 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:27 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:28 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:33 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:35 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:36 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:49 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:48:51 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:49:51 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:49:53 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:49:56 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:50:01 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 08:51:32 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:11:54 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:11:58 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:12:57 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:12:59 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:13:01 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:13:41 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:13:45 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:14:13 --> Invalid argument supplied for foreach()
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:14:16 --> Invalid argument supplied for foreach()
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:14:18 --> Invalid argument supplied for foreach()
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:19:35 --> Invalid argument supplied for foreach()
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:20:03 --> Invalid argument supplied for foreach()
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:20:06 --> Invalid argument supplied for foreach()
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:20:50 --> Undefined variable: meaning
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/webster.php(152): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 152, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('webster', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('webster', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:22:03 --> Class 'App\Models\WikiModel' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:23:52 --> Class 'App\Models\WikiModels' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:24:31 --> Undefined property: stdClass::$definition
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/wiki.php(155): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', '/home/phormulao...', 155, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('wiki', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wiki.php(18): view('wiki', Array)
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wiki->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wiki))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:33:40 --> Undefined variable: wiki
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 75, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:34:16 --> Undefined variable: wiki
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 75, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:35:22 --> Undefined variable: webs
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 74, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:35:50 --> Undefined variable: wiki
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 75, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:36:24 --> Undefined variable: ddc
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(76): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 76, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:38:41 --> Undefined variable: webs
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(74): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/phormulao...', 74, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#3 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-25 09:46:32 --> Class 'App\Models\OxfordModels' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Oxford->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Oxford))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 09:47:53 --> Class 'App\Models\DdcModels' not found
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Ddc->index()
+#1 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ddc))
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-10-25 10:57:17 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /home/phormulaone1/piccadilly.kanamon.com/app/Models/WnModels.php on line 16
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Models/WnModels.php(16): CodeIgniter\Database\BaseBuilder->like('wn_synset.word', NULL)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wordnet.php(15): App\Models\WnModels->wnDefA(NULL)
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wordnet->index()
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wordnet))
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-10-25 10:58:20 --> Argument 2 passed to CodeIgniter\Database\BaseBuilder::like() must be of the type string, null given, called in /home/phormulaone1/piccadilly.kanamon.com/app/Models/WnModels.php on line 16
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Models/WnModels.php(16): CodeIgniter\Database\BaseBuilder->like('wn_synset.word', NULL)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wordnet.php(15): App\Models\WnModels->wnDefA(NULL)
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wordnet->index()
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wordnet))
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-10-25 12:01:50 --> syntax error, unexpected '<', expecting end of file
+#0 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('wn', Array, true)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Wordnet.php(18): view('wn', Array)
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Wordnet->index()
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Wordnet))
+#4 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}

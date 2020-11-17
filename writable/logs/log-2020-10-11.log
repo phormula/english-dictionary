@@ -1,0 +1,44 @@
+CRITICAL - 2020-10-11 08:40:57 --> include(dictionaries.php): failed to open stream: No such file or directory
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(diction...', '/home/phormulao...', 64, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): include()
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-10-11 08:43:18 --> include(dictionaries.php): failed to open stream: No such file or directory
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(diction...', '/home/phormulao...', 64, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): include()
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-10-11 08:57:18 --> include(dictionaries.php): failed to open stream: No such file or directory
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(diction...', '/home/phormulao...', 64, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): include()
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2020-10-11 08:57:20 --> include(dictionaries.php): failed to open stream: No such file or directory
+#0 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(diction...', '/home/phormulao...', 64, Array)
+#1 /home/phormulaone1/piccadilly.kanamon.com/app/Views/welcome_message.php(64): include()
+#2 /home/phormulaone1/piccadilly.kanamon.com/system/View/View.php(246): include('/home/phormulao...')
+#3 /home/phormulaone1/piccadilly.kanamon.com/system/Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#4 /home/phormulaone1/piccadilly.kanamon.com/app/Controllers/Home.php(7): view('welcome_message')
+#5 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(918): App\Controllers\Home->index()
+#6 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 /home/phormulaone1/piccadilly.kanamon.com/system/CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/phormulaone1/piccadilly.kanamon.com/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
